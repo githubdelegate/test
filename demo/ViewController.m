@@ -17,12 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
-    NSLog(@"这是test respository");
-    
-    NSLog(@"对呀这是一个test 的repository");
-    
-    NSLog(@"这是alpinevip的commit");
-    
+
+    NSLog(@"都没有提交");
 }
 
 - (void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event
