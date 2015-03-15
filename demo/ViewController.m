@@ -19,6 +19,8 @@
 
 
     NSLog(@"都没有提交");
+    
+    NSLog(@"alpine vip 第一次提交");
 }
 
 - (void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event
