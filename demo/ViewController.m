@@ -21,6 +21,8 @@
     
     NSLog(@"对呀这是一个test 的repository");
     
+    NSLog(@"这是alpinevip的commit");
+    
 }
 
 - (void)touchesBegan:(NSSet *)touches withEvent:(UIEvent *)event
