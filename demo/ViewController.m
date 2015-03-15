@@ -19,6 +19,7 @@
 
     NSLog(@"这是test respository");
     
+    NSLog(@"对呀这是一个test 的repository");
     
 }
 
